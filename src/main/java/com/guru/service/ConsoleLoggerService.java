@@ -14,5 +14,6 @@ public class ConsoleLoggerService {
 		logger.debug("From ConsoleLoggerService");
 		logger.warn("From ConsoleLoggerService");
 		logger.error("From ConsoleLoggerService");
+		logger.error("From ConsoleLoggerService");
 	}
 }
