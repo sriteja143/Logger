@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 
 @Service
-public class ConsoleLoggerService {
+public class ConsoleLoggerService { 
 	Logger logger = LoggerFactory.getLogger(this.getClass());
 	
 	public void consolelog() {
